@@ -7,7 +7,7 @@ description: |
   Coffee outside with
   or without bikes
   because why not?
-owner: Corvallis Coffee Outside # or company name
+owner: Corvallis Bicycle Collective # or company name
 first_published: 2020 # if migrating another site, the year of your first publish
 email: sylvan@corvallisbikes.org
 baseurl: "" # the subpath of your site, e.g. /blog
